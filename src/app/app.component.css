@@ -1,0 +1,23 @@
+.border-top {
+  border-top: #000 10px solid !important;
+}
+
+.color {
+  background: #373737;
+}
+
+.border-color-none {
+  border-color: #fff !important;
+  border-radius: 0;
+  color: #fff;
+}
+
+.nav-tabs .nav-link.active {
+  background-color: #8DC63F;
+  color: #fff;
+}
+
+.fix-image {
+  max-width: 100%;
+  border-radius: 10px;
+}
